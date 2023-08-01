@@ -1,6 +1,4 @@
 sympy
 numpy
 matplotlib
-IPython.display.display
-IPython.display.Math
-IPython.display.Latex
+IPython
