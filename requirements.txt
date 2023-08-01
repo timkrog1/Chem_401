@@ -1,1 +1,4 @@
-
+sympy
+numpy
+matplotlib
+IPython.display
